@@ -10,6 +10,7 @@
 # 2 - paper
 # 3 - lizard
 # 4 - scissors
+#RANDOM COMMENT.
 
 # helper functions
 import random
